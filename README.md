@@ -1,4 +1,10 @@
-<h2 align="left">Especialista em Banco de Dados há 15 anos, atuando em empresas de grande porte nas áreas de Marketing, Loyalty B2B, Consultorias de TI e Operadora de TV por assinatura via satélite.<br>Minhas habilidades incluem gestão e trabalho em equipe, captação de necessidades com as áreas demandantes, sólidos conhecimentos técnicos em DBM e Dashboards.</h2>
+<h2 align="left">Olá! 👋
+Sou um desenvolvedor apaixonado por tecnologia e sempre buscando aprender algo novo! Atualmente, estou focado em:
+
+Banco de Dados: Trabalho com SQL Server e MongoDB.
+ETL: Desenvolvo pacotes de integração de dados com SSIS.
+Automação e Scripts: Utilizo C# e outras linguagens para automatizar processos e criar soluções eficientes.
+Sinta-se à vontade para explorar meus repositórios e contribuir com sugestões e melhorias. Estou sempre aberto a colaborar em projetos interessantes! 😊</h2>
 
 ###
 
